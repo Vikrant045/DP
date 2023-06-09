@@ -23,6 +23,6 @@ public class CoinChange_totalWays {
     public static void main(String args[]){
         int coins[]={2,5,3,6};
         int sum=10;
-        System.out.println(countWays(coins, sum));
+        System.out.println(" India"+countWays(coins, sum));
     }
 }

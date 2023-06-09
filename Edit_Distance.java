@@ -29,7 +29,7 @@ for(int i=1;i<n+1;i++){
     return dp[n][m];
 }
     public static void main(String args[]){
-        String st1="intension";
+        String st1="intention";
         String st2 ="execution";
         System.out.println(conversion_Steps(st1, st2));
     }
